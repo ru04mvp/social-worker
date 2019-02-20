@@ -2,7 +2,7 @@
 <widget id="com.social-worker.app" version="1.9" 
     xmlns="http://www.w3.org/ns/widgets" 
     xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Social Worker</name>
+    <name>Social</name>
     <description>
         The social-worker App
     </description>
