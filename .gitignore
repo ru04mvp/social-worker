@@ -33,6 +33,6 @@ backend/application/cache/*
 !backend/application/logs/index.html
 !backend/application/cache/index.html
 backend/application/controllers/Test.php
-_shellscript/logs/*
-!_shellscript/logs/index.html
+backend/_shellscript/logs/*
+!backend/_shellscript/logs/index.html
 # web-pack/package-lock.json
