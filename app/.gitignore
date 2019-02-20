@@ -1,0 +1,20 @@
+# Mac
+*/.DS_Store
+.DS_Store
+
+# Node
+npm-debug.log
+*/node_modules
+node_modules
+# Cordova
+/platforms
+/plugins
+/develope
+
+# res
+resources/signing
+jsconfig.json
+.vscode/
+typings/
+www/*
+
