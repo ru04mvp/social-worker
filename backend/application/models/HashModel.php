@@ -20,7 +20,7 @@ class HashModel extends CI_Model {
             return $hashid->encode([$id, 0, rand(0, 999999)]);
         }
         if ($opt == 2) {
-            return $hashid->decode([$id, 0, rand(0, 999999)]);
+            return $hashid->decode([$id, 0, rand(0, 999999)])[0];
         }
         return false;
     }
